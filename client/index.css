@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "raleway-regular";
+    src: url("raleway-regular.ttf");
+}
+
+body {
+    font-family: "raleway-regular";
+    background-color: #ebebeb;
+}
+
+div {
+    width: 400px;
+    margin: auto;
+    border: 3px solid white;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10%;
+}
+
+input {
+    font-family: "raleway-regular";
+    font-size: 120%;
+    text-indent: 5%;
+    width: 100%;
+    height: 45px;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    font-family: "raleway-regular";
+    font-size: 120%;
+    border-radius: 25px;
+    border: none;
+}
+
+button:hover {
+    background-color: lightseagreen;
+}
+
+output {
+    font-family: "raleway-regular";
+    font-size: 120%;
+    color: red;
+}

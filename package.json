@@ -1,0 +1,30 @@
+{
+  "name": "authentification2",
+  "version": "0.0.1",
+  "description": "mysql based authentification system",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "document": "echo hi",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thebestandgreatest/authentification2.git"
+  },
+  "author": "thebestandgreatest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thebestandgreatest/authentification2/issues"
+  },
+  "homepage": "https://github.com/Thebestandgreatest/authentification2#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.1",
+    "expresss": "^0.0.0",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.4.0"
+  }
+}
